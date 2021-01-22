@@ -130,4 +130,5 @@ dmypy.json
 
 # Project-specific files
 auth
+credentials.py
 playlist_sort_local.py
